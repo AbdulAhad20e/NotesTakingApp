@@ -1,0 +1,7 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="light_green">#6FCC73</color> <!-- example -->
+    <color name="light_green_dark">#26D32E</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>
